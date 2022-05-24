@@ -37,4 +37,4 @@ NLW Return promovida pela Rocketseat, foi desenvolvido o projeto de uma landing 
 </br>
 Feito com ❤️ por Priscila Souza 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://www.linkedin.com/in/priscila-souza-soares/)
+(https://www.linkedin.com/in/priscila-souza-soares/)
